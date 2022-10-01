@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
 <h3 align="center">A passionate Data Science</h3>
 
-- 🔭 I’m currently working on **SQL**
+- 🔭 I’m currently working on **Data Analysis**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **meteserttt@gmail.com**
 
