@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
-<h3 align="center">A passionate Data Science</h3>
+<h3 align="center">A passionate Technology</h3>
 
 - 🔭 I’m currently working on **MVC ASP .NET Core - React Native **
 
