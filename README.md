@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **.NET**
 
-- 🌱 I’m currently learning **.NET C#**
+- 🌱 I’m currently learning **.NET - C#**
 
 - 📫 How to reach me **meteserttt@gmail.com**
 
