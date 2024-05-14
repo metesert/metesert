@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
 <h3 align="center">A passionate about Technology</h3>
 
-- 🔭 I’m currently working on **MVC ASP .NET Core - React Native **
+- 🔭 I’m currently working on **.NET**
 
-- 🌱 I’m currently learning **C# - TypeScript**
+- 🌱 I’m currently learning **.NET C#**
 
 - 📫 How to reach me **meteserttt@gmail.com**
 
