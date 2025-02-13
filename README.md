@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
-<h3 align="center">A passionate about Technology</h3>
+<h3 align="center">Mathematical Engineer</h3>
 
 - 🔭 I’m currently working on **.NET**
 
