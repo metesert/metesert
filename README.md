@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mete</h1>
 <h3 align="center">Mathematical Engineer</h3>
 
-- 🔭 I’m currently working on **.NET**
+- 🔭 I’m currently working on **SQL - Informatica - Powercenter **
 
-- 🌱 I’m currently learning **.NET - C#**
+- 🌱 I’m currently learning **Data Lineage**
 
 - 📫 How to reach me **meteserttt@gmail.com**
 
